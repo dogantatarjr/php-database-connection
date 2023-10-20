@@ -13,7 +13,7 @@
         $result = $connection->query($query); // Import data to page from database
 
         if ($result->num_rows == 1) {
-            header("Location: admin.html"); // Due to the result go to the other page
+            header("Location: user.html"); // Due to the result go to the other page
         } else {
             header("Location: fail.html"); // Due to the result go to the other page
         }
