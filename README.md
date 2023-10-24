@@ -16,4 +16,4 @@ In your PHP pages where you need to use the database connection, include the con
 
 ### Use the Database Connection 
 
-With the database connection included, you can execute SQL queries, retrieve data, or insert/update records in your PHP page. (Example is given in another repo: https://github.com/dogantatarjr/register-login-page )
+With the database connection included, you can execute SQL queries, retrieve data, or insert/update records in your PHP page. Can be seen on query-method.php (Another example is given in another repo: https://github.com/dogantatarjr/register-login-page)
